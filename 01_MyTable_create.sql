@@ -1,3 +1,7 @@
+/*
+adding comments here 
+*/
+
 if exists (
   select * from sys.tables where name = N'myTable'
 )
